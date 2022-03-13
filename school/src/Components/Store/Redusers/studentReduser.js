@@ -1,10 +1,16 @@
 export const studentReduser = (
-    state = { student: [...students], selectedStudent: [] },
+    state = { student: [...students] },
     action
   ) => {
     if(action.type==="Add-Data"){
       return {...state,student:[...state.student,action.data]}
     }
+    if(action.type==="Delete-Data"){
+      const filtered=state.student.filter((ele) => ele.No !== action.data.No);
+      return {...state,student:filtered}
+    }
+
+
     return state;
   };
 

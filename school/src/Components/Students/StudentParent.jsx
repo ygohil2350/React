@@ -10,9 +10,10 @@ import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
 
 const StudentParent = () => {
-
+  const dispach=useDispatch((ele)=>ele.studentReduser.student)
     const selecter=useSelector((get)=>get.studentReduser.student)
     console.log(selecter)
     return (
@@ -50,7 +51,7 @@ const StudentParent = () => {
               <TableCell align="right">{ele.Fees_paid}</TableCell>
               <TableCell align="right">{ele.Fees_paid_Date}</TableCell>
               <TableCell><Button variant="contained" size="medium">Edit</Button></TableCell>
-              <TableCell><Button variant="contained" size="medium">Delete</Button></TableCell>
+              <TableCell><Button variant="contained" size="medium" onClick={()=>dispach({type:"Delete-Data",data:ele})}>Delete</Button></TableCell>
             </TableRow>
               ))}
         </TableBody>
