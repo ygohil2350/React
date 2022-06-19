@@ -1,0 +1,721 @@
+{
+  "auth": [
+    {
+      "id": 1,
+      "email": "sankalp123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "sankalpSwami123@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "sankalpSwami123@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "sankalp@1122",
+      "password": "sankalp@1122",
+      "id": 4
+    },
+    {
+      "email": "sankalp@112233",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "xyz@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "1234567891",
+      "password": "abcdf",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product_name": "POCO X3(Cobalt Blue, 128 GB)",
+      "rating": "4.3",
+      "price": "15499",
+      "original_price": "20000",
+      "img": "https://www.91-img.com/pictures/139827-v7-xiaomi-poco-x3-mobile-phone-medium-1.jpg?tr=q-80",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "device_ram": 3,
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "3 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "product_name": "OnePlus 10R 5G (Sierra Black, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+      "rating": "4.3",
+      "price": "38999",
+      "original_price": "43,999",
+      "img": "https://m.media-amazon.com/images/I/71BoiXkrEmL._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "product_name": "realme narzo 50 (Speed Black, 4GB RAM+64GB Storage) Helio G96 Processor | 50MP AI Triple Camera | 120Hz Ultra Smooth Display",
+      "rating": "4.3",
+      "price": "11,999",
+      "original_price": "16,999",
+      "img": "https://m.media-amazon.com/images/I/71UcgVe9x1L._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "product_name": "OnePlus Nord CE 2 5G (Bahamas Blue, 6GB RAM, 128GB Storage)",
+      "rating": "4.3",
+      "price": "23,999.00",
+      "original_price": "24,999.00",
+      "img": "https://m.media-amazon.com/images/I/61+Q6Rh3OQL._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "product_name": "realme narzo 50 (Speed Black, 4GB RAM+64GB Storage)",
+      "rating": "4.3",
+      "price": "11,999.00",
+      "original_price": "15,999.00",
+      "img": "https://m.media-amazon.com/images/I/71UcgVe9x1L._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "product_name": "OnePlus 9 Pro 5G (Pine Green, 8GB RAM, 128GB  Storage)",
+      "rating": "4.3",
+      "price": "49,999.00",
+      "original_price": "51,999.00",
+      "img": "https://m.media-amazon.com/images/I/612ytK4luvL._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "product_name": "Xiaomi 12 Pro | 5G (Couture Blue, 8GB RAM, 256GB Storage)",
+      "rating": "4.3",
+      "price": "62,999.00",
+      "original_price": "65,999.00",
+      "img": "https://m.media-amazon.com/images/I/71xMba-NW-L._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "product_name": "vivo Y15s Wave Green (2GB RAM & 32GB ROM) Without Offers",
+      "rating": "4.3",
+      "price": "6,999",
+      "original_price": "8,999",
+      "img": "https://m.media-amazon.com/images/I/41fXNKoLUqL.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "Netflix|Prime video|Disney+hotstar|youtube",
+          "feature2": "Operating System:Android",
+          "feature3": "HD Ready 1366*768 pixel",
+          "feature4": "24 watt speaker output",
+          "feature5": "60 hz refresh rate",
+          "feature6": "3*HDMI|2*USB",
+          "feature7": "1 year domestic warranty"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "product_name": "realme narzo 30 5G (Racing Blue, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "rating": "4.3",
+      "price": "38,999.00",
+      "original_price": "41,999.00",
+      "img": "https://m.media-amazon.com/images/I/71UcgVe9x1L._SX679_.jpg",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "product_name": "Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",
+      "rating": "4.3",
+      "price": "38,999.00",
+      "original_price": "41,999.00",
+      "img": "https://www.reliancedigital.in/medias/Samsung-S20-FE-Smart-Phones-491947348-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzk5NDJ8aW1hZ2UvanBlZ3xpbWFnZXMvaGRhL2gwNy85NTExNjM2MTQwMDYyLmpwZ3w5NWY5ZmM1NjFhNTU1MzA5MzQzODYzMjFkMjBjYzE1ZWVmOWRiMjk0MzIxMTY4MDY0MTdlYWU1NmExNjcwYTY0",
+      "category": "equipment",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "product_name": "POCO X3(Cobalt Blue, 128 GB)",
+      "rating": "4.8",
+      "price": "15499",
+      "original_price": "20000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kfbfr0w0/mobile/f/x/r/poco-x3-mzb07z2in-original-imafvt3hz54npsba.jpeg?q=70",
+      "category": "mobile",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "device_ram": 3,
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "3 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "product_name": "POCO X3(Cobalt Blue, 128 GB)",
+      "rating": "4.8",
+      "price": "15499",
+      "original_price": "20000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kfbfr0w0/mobile/f/x/r/poco-x3-mzb07z2in-original-imafvt3hz54npsba.jpeg?q=70",
+      "category": "mobile",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "device_ram": 3,
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "3 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "product_name": "POCO M3(Power Black, 128 GB)",
+      "rating": "3.8",
+      "price": "11099",
+      "original_price": "14000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kklhbbk0/mobile/m/s/f/m3-mzb0879in-poco-original-imafzxf686qtxq2x.jpeg?q=70",
+      "category": "mobile",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "device_ram": 4,
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "4 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "product_name": "POCO C3(Arctic Blue, 128 GB)",
+      "rating": "2.3",
+      "price": "7999",
+      "original_price": "10000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kfvfwy80/mobile/j/h/t/poco-c3-mzb07riin-original-imafw8qbg63kvngr.jpeg?q=70",
+      "category": "mobile",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "device_ram": 6,
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "product_name": "BoAt Stone 1500 40 W Bluetooth Speaker",
+      "price": "4999",
+      "original_price": "10000",
+      "img": "https://rukminim1.flixcart.com/image/612/612/khdqnbk0/speaker/mobile-tablet-speaker/h/k/x/stone-1500-boat-original-imafxeqqqdqynmmm.jpeg?q=70",
+      "category": "electronic",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "product_name": "BoAt Rugby 10 W Portable Bluetooth Speaker",
+      "rating": "4.3",
+      "price": "999",
+      "original_price": "1200",
+      "img": "https://rukminim1.flixcart.com/image/612/612/k0vbgy80pkrrdj/speaker/mobile-tablet-speaker/h/5/n/boat-rugby-original-imafjyeuy4fz7rjq.jpeg?q=70",
+      "category": "electronic",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "product_name": "BoAt Stone Grenade 5 W Portable Bluetooth Speaker",
+      "rating": "4.3",
+      "price": "999",
+      "original_price": "1300",
+      "img": "https://rukminim1.flixcart.com/image/612/612/k0vbgy80pkrrdj/speaker/mobile-tablet-speaker/4/n/n/boat-stone-grenade-original-imafg96ffpnpgdv4.jpeg?q=70",
+      "category": "electronic",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "product_name": "Dell 15 (2021) Intel i5-11300H, Inspiron 5518 15.6 inches FHD Display Laptop (16GB, 512Gb SSD, NVIDIA MX450 2GB Graphics, Windows 11 + MS Office 21, Platinum Silver, D560691WIN9S)",
+      "rating": "4.7",
+      "price": "68,099",
+      "original_price": "73000",
+      "img": "https://m.media-amazon.com/images/I/61-+DDxcdxL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "fashion",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "product_name": "HP Pavilion 14,11th Gen Intel Core i5 16GB RAM/512GB SSD 14 inch(35.6 cm),FHD IPS Anti-Glare Display/Intel Iris Xe Graphics/Backlit KB/B&O Audio/FPR/Win 11/Thin & Light/1.41kg, 14-dv1001TU",
+      "rating": "4.0",
+      "price": "56560",
+      "original_price": "61000",
+      "img": "https://m.media-amazon.com/images/I/81yJqJSeK4L._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "fashion",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "product_name": "Lenovo ThinkBook 14 Intel Core i5 11th Gen 14 (35.56cm) FHD IPS Thin & Light Laptop (16GB RAM/512GB SSD/Windows 11 Home/MS Office 2021/FPR/Intel Iris Xe Graphics Mineral Grey/1.4 kg), 20VDA0TLIH",
+      "rating": "4.3",
+      "price": "65499",
+      "original_price": "71000",
+      "img": "https://m.media-amazon.com/images/I/51CgbCTiwlL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "fashion",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "product_name": "Dell New Inspiron 3511 Laptop, Intel i5-1135G7, Win11 + Office'21, 8GB GDDR4, 512GB SSD, 15.6 (39.62Cms) FHD WVA AG Backlit KB (D560785WIN9S, 1.8Kgs)",
+      "rating": "3.3",
+      "price": "71249",
+      "original_price": "73500",
+      "img": "https://m.media-amazon.com/images/I/61AlhAVj7wL._SX679_.jpg",
+      "category": "fashion",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "6 GB RAM | 128 GB ROM | Expandable upto 512 GB",
+          "feature2": "16.94 cm Full HD+ Display",
+          "feature3": "64 MP + 13 MP + 2MP + 2MP | 20MP Front Camera",
+          "feature4": "6000 mAh Lithium-ion Polymer Battery",
+          "feature5": "Qualcom Snapdragon 732G Processor",
+          "feature6": "1 year of Handset and 6 months of Accessories"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "product_name": "realme 80 cm (32 inch) HD Ready LED Smart Android TV",
+      "rating": "2.8",
+      "price": "13949",
+      "original_price": "15000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kae95e80/television/f/6/y/realme-tv-32-original-imafrz79pweqeafh.jpeg?q=70",
+      "category": "appliance",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "Netflix|Prime video|Disney+hotstar|youtube",
+          "feature2": "Operating System:Android",
+          "feature3": "HD Ready 1366*768 pixel",
+          "feature4": "24 watt speaker output",
+          "feature5": "60 hz refresh rate",
+          "feature6": "3*HDMI|2*USB",
+          "feature7": "1 year domestic warranty"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "product_name": "Mi 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV with Google Data Saver",
+      "rating": "1.4",
+      "price": "14449",
+      "original_price": "16000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kc54ivk0/television/r/q/g/mi-l43m4-4ain-original-imaftc5fy6bfmhyb.jpeg?q=70",
+      "category": "appliance",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "Netflix|Prime video|Disney+hotstar|youtube",
+          "feature2": "Operating System:Android",
+          "feature3": "HD Ready 1366*768 pixel",
+          "feature4": "24 watt speaker output",
+          "feature5": "60 hz refresh rate",
+          "feature6": "3*HDMI|2*USB",
+          "feature7": "1 year domestic warranty"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "product_name": "SAMSUNG 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition",
+      "rating": "4.7",
+      "price": "16649",
+      "original_price": "20000",
+      "img": "https://rukminim1.flixcart.com/image/312/312/kbs9k7k0/television/c/j/3/samsung-ua32t4340akxxl-original-imaft25qdysfsq7k.jpeg?q=70",
+      "category": "appliance",
+      "logo": "https://rukminim1.flixcart.com/www/36/36/promos/06/09/2016/c22c9fc4-0555-4460-8401-bf5c28d7ba29.png?q=90",
+      "offers": [
+        {
+          "offers1": "Special PriceGet extra ₹130 off (price inclusive of discount)T&C",
+          "offers2": "Combo OfferBuy 3-4 items save 5%;Buy 5 or more save 10%See all productsT&C",
+          "offers3": "Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+          "offers4": "Bank Offer₹20 Off on first prepaid transaction using UPI payments, minimum order value ₹750/-T&C"
+        }
+      ],
+      "features": [
+        {
+          "feature1": "Netflix|Prime video|Disney+hotstar|youtube",
+          "feature2": "Operating System:Android",
+          "feature3": "HD Ready 1366*768 pixel",
+          "feature4": "24 watt speaker output",
+          "feature5": "60 hz refresh rate",
+          "feature6": "3*HDMI|2*USB",
+          "feature7": "1 year domestic warranty"
+        }
+      ]
+    }
+  ]
+}
